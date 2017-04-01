@@ -1,0 +1,23 @@
+{
+  "name": "PLMBUSWEB",
+  "version": "1.0.0",
+  "description": "The Web-based version of the PLM Budget Utilization System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnswico/PLM-BUS-WEB.git"
+  },
+  "keywords": [],
+  "author": "Christian Neil Anthony Wico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnswico/PLM-BUS-WEB/issues"
+  },
+  "homepage": "https://github.com/cnswico/PLM-BUS-WEB#readme",
+  "dependencies": {
+    "ng-office-ui-fabric": "^0.14.0"
+  }
+}
